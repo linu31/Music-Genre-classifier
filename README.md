@@ -23,8 +23,8 @@ The integration of different media formats enhances the overall classification a
 
 ## 🖼️ 3. Demo
 
-![App Screenshot 1](screenshots/ui_upload.png)  
-![App Screenshot 2](screenshots/results_visual.png)
+![App Screenshot 1](images/op1.jpg)  
+![App Screenshot 2](images/op2.jpg)
 
 ---
 
