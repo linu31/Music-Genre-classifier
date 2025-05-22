@@ -6,7 +6,7 @@ A Streamlit web application that classifies music genre and sentiment using a co
 
 ## 🎤 1. Introduction
 
-Music genre classification is a significant task in the field of music information retrieval. With the vast amount of music content generated daily, organizing, recommending, and analyzing music becomes challenging without intelligent categorization. This project explores a *multi-modal AI approach* by combining insights from audio signals, lyrical content, and visual album cover designs.
+Music genre classification is a significant task in the field of music information retrieval. With the vast amount of music content generated daily, organizing, recommending, and analyzing music becomes challenging without intelligent categorization. This project explores a **multi-modal AI approach** by combining insights from audio signals, lyrical content, and visual album cover designs.
 
 The integration of different media formats enhances the overall classification accuracy and mimics how humans perceive music — not just through sound, but also through lyrics and visual cues. This approach benefits music streaming platforms, digital libraries, recommendation systems, and music enthusiasts by enabling smarter categorization and sentiment insight.
 
@@ -14,43 +14,43 @@ The integration of different media formats enhances the overall classification a
 
 ## 🚀 2. Features
 
-- 🎧 *Audio Genre Classification* — Detects music genre from MP3/WAV files.
-- ✍ *Lyrics Sentiment Analysis* — Analyzes sentiment (positive, negative, neutral) from lyrics.
-- 🖼 *Album Cover Genre Estimation* — Predicts the likely genre from a cover image.
-- 📊 *Visualized Results* — Includes a colorful bar chart of predictions for quick insights.
+- 🎧 **Audio Genre Classification** — Detects music genre from MP3/WAV files.
+- ✍️ **Lyrics Sentiment Analysis** — Analyzes sentiment (positive, negative, neutral) from lyrics.
+- 🖼️ **Album Cover Genre Estimation** — Predicts the likely genre from a cover image.
+- 📊 **Visualized Results** — Includes a colorful bar chart of predictions for quick insights.
 
 ---
 
-## 🖼 3. Demo
+## 🖼️ 3. Demo
 
-![App Screenshot 1](images/op1.jpg)  
-![App Screenshot 2](images/op2.jpg)
+![App Screenshot 1](screenshots/ui_upload.png)  
+![App Screenshot 2](screenshots/results_visual.png)
 
 ---
 
-## 🛠 4. Installation Steps
+## 🛠️ 4. Installation Steps
 
-1. *Extract the Downloaded Folder*
+1. **Extract the Downloaded Folder**
 
    Download and unzip the project folder to your local machine.
 
-2. *Install IntelliJ IDEA Ultimate*  
+2. **Install IntelliJ IDEA Ultimate**  
    - Download and install [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/).
-   - Make sure Python plugin is installed from Settings → Plugins.
+   - Make sure Python plugin is installed from `Settings → Plugins`.
 
-3. *Open Project*  
+3. **Open Project**  
    - Launch IntelliJ.
    - Open the extracted project folder.
 
-4. *Install Dependencies*  
+4. **Install Dependencies**  
    - Open terminal or command prompt in the project root.
    - Run the following command to install all required libraries:
 
-     bash
+     ```bash
      pip install -r requirements.txt
-     
+     ```
 
-5. *Run the Application*
+5. **Run the Application**
 
    Use the command below to start the Streamlit app:
 
